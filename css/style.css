@@ -1,7 +1,21 @@
 *{
     font-family: Roboto;
   }
-  
+
+body{
+    background-color: #cbeaff;
+}
+
+h1{
+    color: #0171bb;
+    margin: 40px;
+}
+
+.texto{
+    color: #0171bb;
+    margin: 40px;
+}
+
   .benefits__conteiner {
      display: -webkit-box;
      display: -ms-flexbox;
@@ -16,6 +30,7 @@
          justify-content: space-around;
      padding-left: 30px;
      padding-right: 30px;
+     margin-top: 50px;
    }
    
    .benefits__h3 {
